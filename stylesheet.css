@@ -1,0 +1,81 @@
+#mainContent { 
+	border-radius: 4px;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	 height: 50%;
+  width: 100%;
+	display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+	
+} 
+#databaseButtons {
+	padding: 20px;
+	text-align: center;
+	
+}
+#backButton {
+	text-align: center;
+	
+}
+#login {
+	 height: 50%;
+  width: 100%;
+	display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+}
+#date {
+	font-size: xx-large;
+}
+body {
+	background-color : #E3F0FB;
+}
+.buttonStyle {
+	border-radius: 4px;
+	border: thin solid #F0E020;
+	padding: 5px;
+	background-color: #F8F094;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	color: #663300;
+	width: 100px;
+}
+.buttonStyle:hover {
+	border: thin solid #FFCC00;
+	background-color: #FCF9D6;
+	color: #996633;
+	cursor: pointer;
+}
+.buttonStyle:active {
+	border: thin solid #99CC00;
+	background-color: #F5FFD2;
+	color: #669900;
+	cursor: pointer;
+}
+.buttonStyleAdd {
+	border-radius: 4px;
+	border: thin solid #F0E020;
+	padding: 5px;
+	background-color: #F8F094;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	color: #808080;
+	width: 100px;
+}
+.buttonStyleAdd:hover {
+	border: thin solid #FFCC00;
+	background-color: #FCF9D6;
+	color: #996633;
+	cursor: pointer;
+}
+.buttonStyleAdd:active {
+	border: thin solid #99CC00;
+	background-color: #F5FFD2;
+	color: #669900;
+	cursor: pointer;
+}
