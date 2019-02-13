@@ -58,7 +58,7 @@
 		<form method="post" action="index.php">
 			USER: <input type="text" name="username"><br><br>
 			PASS: <input type="password" name="password"><br><br>
-			<button id='loginButton' class='buttonStyleAdd'onclick='login()'>Login</button><br><br>		
+			<button id='loginButton' class='buttonStyleAdd'>Login</button><br><br>		
 		</form>
 			
 	</div>

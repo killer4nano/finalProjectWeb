@@ -31,6 +31,7 @@
 			}
 		}
 	}
+	
 	echo "<p>BLACK TOPS: " . $blackTops . "<br>"
 		. "BLACK BOTTOMS: " . $blackBottoms . "<br>" 
 		. "WHITE TOPS: " . $whiteTops . "<br>" 
